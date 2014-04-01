@@ -1,0 +1,175 @@
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 1
+ Name: Nishad Dawkhar
+ Roll Number : 2809
+ Mobile Number : 7507012861
+
+ Press 1 to re-run program and 0 to exit...
+
+1
+
+
+
+
+
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 1
+ Name: Neha Dawkhar
+ Roll Number : 2110
+ Mobile Number : 9545276301
+
+ Press 1 to re-run program and 0 to exit...
+
+1
+
+
+
+
+
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 3
+
+ Elements in Queue: 
+
+ Name : Nishad Dawkhar
+ Roll Number : 2809
+ Phone number : 7507012861
+
+ Name : Neha Dawkhar
+ Roll Number : 2110
+ Phone number : 9545276301
+
+
+
+
+ Press 1 to re-run program and 0 to exit...
+
+1
+
+
+
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 2
+ The record for "Nishad Dawkhar" was removed successfully! 
+
+ Press 1 to re-run program and 0 to exit...
+
+1
+
+
+
+
+
+
+
+
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 3
+
+ Elements in Queue: 
+
+ Name : Neha Dawkhar
+ Roll Number : 2110
+ Phone number : 9545276301
+
+
+
+
+ Press 1 to re-run program and 0 to exit...
+
+1
+
+
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 2
+ The record for "Neha Dawkhar" was removed successfully! 
+
+ Press 1 to re-run program and 0 to exit...
+
+1
+
+
+
+
+
+
+
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 3
+
+ Elements in Queue: 
+
+ Queue is empty.. 
+
+ Press 1 to re-run program and 0 to exit...
+
+1
+
+
+
+
+
+				Circular Queue using Arrays
+
+
+ 1. Add a record to the Queue. (Enqueue)
+ 2. Delete a record from the Queue. (Dequeue)
+ 3. Display Queue.
+ 4. Exit
+
+ Your choice: 2
+ Cannot delete elements from an empty Queue! 
+
+ Press 1 to re-run program and 0 to exit...
+
+0
+

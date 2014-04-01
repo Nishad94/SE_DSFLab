@@ -1,0 +1,187 @@
+Specify Number of Priorities : 
+3
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+1
+Enter the following details:
+ Patient name : Nishad Dawkhar
+ Patient age : 19
+ Contact number : 7507012861
+ Illness : None
+ Patient priority : 3
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+1
+Enter the following details:
+ Patient name : Rahul
+ Patient age : 19
+ Contact number : 9890511099
+ Illness : Fever
+ Patient priority : 2
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+1
+Enter the following details:
+ Patient name : Random Person
+ Patient age : 47
+ Contact number : 7980522086
+ Illness : Cancer
+ Patient priority : 1
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+3
+ --->Patients with Priority #1 : 
+
+ Patient name : Random Person
+ Patient age : 47
+ Contact number : 7980522086
+ Paient illness : Cancer
+
+ --->Patients with Priority #2 : 
+
+ Patient name : Rahul
+ Patient age : 19
+ Contact number : 9890511099
+ Paient illness : Fever
+
+ --->Patients with Priority #3 : 
+
+ Patient name : Nishad Dawkhar
+ Patient age : 19
+ Contact number : 7507012861
+ Paient illness : None
+
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+2
+The following patient has been processed ( removed ) : 
+ Patient name : Random Person
+ Patient age : 47
+ Contact number : 7980522086
+ Paient illness : Cancer
+
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+3
+ --->Patients with Priority #1 : 
+
+ --->Patients with Priority #2 : 
+
+ Patient name : Rahul
+ Patient age : 19
+ Contact number : 9890511099
+ Paient illness : Fever
+
+ --->Patients with Priority #3 : 
+
+ Patient name : Nishad Dawkhar
+ Patient age : 19
+ Contact number : 7507012861
+ Paient illness : None
+
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+2
+The following patient has been processed ( removed ) : 
+ Patient name : Rahul
+ Patient age : 19
+ Contact number : 9890511099
+ Paient illness : Fever
+
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+
+
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+2
+The following patient has been processed ( removed ) : 
+ Patient name : Nishad Dawkhar
+ Patient age : 19
+ Contact number : 7507012861
+ Paient illness : None
+
+Press 1 to continue , 0 to exit... 
+1
+
+
+
+
+
+
+
+
+			 Priority Queue for Patient Processing
+
+Enter your choice:
+ 1. Add patient   2. Process Patient   3. Display patient queue   4. Exit
+2
+No patient in queue! Please add patients .. 
+Press 1 to continue , 0 to exit... 
+0
+
